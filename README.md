@@ -1,3 +1,3 @@
 # new project
 
-this project was created  from local system.by Hseamnth
+this project was created  from local system.by Hseamnth.
